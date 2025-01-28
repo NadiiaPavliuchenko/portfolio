@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "technology": "React",
+    "icon": "/sprite.svg#react",
+    "category": "Frontend"
+  },
+  {
+    "id": 2,
+    "technology": "Redux",
+    "icon": "/sprite.svg#redux",
+    "category": "Frontend"
+  },
+  {
+    "id": 3,
+    "technology": "JavaScript",
+    "icon": "/sprite.svg#javascript",
+    "category": "Frontend"
+  },
+  {
+    "id": 4,
+    "technology": "Node.js",
+    "icon": "/sprite.svg#nodejs",
+    "category": "Backend"
+  },
+  {
+    "id": 5,
+    "technology": "Express.js",
+    "icon": "/sprite.svg#express",
+    "category": "Backend"
+  },
+  {
+    "id": 6,
+    "technology": "MongoDB",
+    "icon": "/sprite.svg#mongodb",
+    "category": "Backend"
+  },
+  {
+    "id": 7,
+    "technology": "HTML",
+    "icon": "/sprite.svg#html",
+    "category": "Frontend"
+  },
+  {
+    "id": 8,
+    "technology": "CSS",
+    "icon": "/sprite.svg#css",
+    "category": "Frontend"
+  },
+  {
+    "id": 9,
+    "technology": "SASS",
+    "icon": "/sprite.svg#sass",
+    "category": "Frontend"
+  },
+  {
+    "id": 10,
+    "technology": "Git",
+    "icon": "/sprite.svg#git",
+    "category": "Version Control"
+  },
+  {
+    "id": 11,
+    "technology": "GitHub",
+    "icon": "/sprite.svg#github",
+    "category": "Version Control"
+  },
+  {
+    "id": 12,
+    "technology": "Next.js",
+    "icon": "/sprite.svg#nextjs",
+    "category": "Frontend"
+  },
+  {
+    "id": 13,
+    "technology": "npm",
+    "icon": "/sprite.svg#npm",
+    "category": "Development"
+  },
+  {
+    "id": 14,
+    "technology": "Yarn",
+    "icon": "/sprite.svg#yarn",
+    "category": "Development"
+  },
+  {
+    "id": 15,
+    "technology": "TailwindCSS",
+    "icon": "/sprite.svg#tailwindcss",
+    "category": "Frontend"
+  },
+  {
+    "id": 16,
+    "technology": "Render",
+    "icon": "/sprite.svg#render",
+    "category": "Deployment"
+  },
+  {
+    "id": 17,
+    "technology": "Vercel",
+    "icon": "/sprite.svg#vercel",
+    "category": "Deployment"
+  },
+  {
+    "id": 18,
+    "technology": "Netlify",
+    "icon": "/sprite.svg#netlify",
+    "category": "Deployment"
+  }
+]

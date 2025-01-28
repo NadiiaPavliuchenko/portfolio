@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="flex justify-between items-center h-[100px] px-[86]">
+    <header className="flex justify-between items-center py-[34px] px-[86px]">
       <h2 className="font-normal text-2xl tracking-tight">
         Nadiia Pavliuchenko
       </h2>
