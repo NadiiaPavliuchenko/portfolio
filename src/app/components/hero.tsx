@@ -4,7 +4,7 @@ import React from "react";
 
 export default function Hero() {
   return (
-    <div className="px-[100] pt-[122] pb-[182] flex items-center justify-between">
+    <div className="px-[100px] pt-[122px] pb-[182px] flex items-center justify-between">
       <div>
         <div>
           <h1 className="font-light text-7xl leading-none tracking-tight mb-[72px]">
@@ -13,7 +13,7 @@ export default function Hero() {
           </h1>
         </div>
         <Link
-          className="bg-orange-500 w-[135] h-[54] py-4 px-8 rounded-md font-medium text-xl hover:bg-orange-700 focus:bg-orange-700 active:bg-orange-700"
+          className="bg-orange-500 w-[135px] h-[54px] py-4 px-8 rounded-md font-medium text-xl hover:bg-orange-700 focus:bg-orange-700 active:bg-orange-700"
           href="#portfolio"
         >
           VIEW MY WORK
