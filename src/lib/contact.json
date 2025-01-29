@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Email",
+    "icon": "/sprite.svg#envelop",
+    "value": "n.pavljuchenko@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Phone",
+    "icon": "/sprite.svg#phone",
+    "value": "+380506560861"
+  },
+  {
+    "id": 3,
+    "name": "Location",
+    "icon": "/sprite.svg#location",
+    "value": "Kyiv, Ukraine"
+  },
+  {
+    "id": 4,
+    "name": "LinkedIn",
+    "icon": "/sprite.svg#linkedin",
+    "url": "https://www.linkedin.com/in/nadiia-pavliuchenko/"
+  },
+  {
+    "id": 5,
+    "name": "GitHub",
+    "icon": "/sprite.svg#github",
+    "url": "https://github.com/NadiiaPavliuchenko"
+  }
+]

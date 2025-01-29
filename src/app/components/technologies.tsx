@@ -3,7 +3,7 @@ import tecnologies from "@/lib/tecnologies.json";
 
 export default function Technologies() {
   return (
-    <div id="technologies" className="px-[100px] pb-[132px]">
+    <div id="technologies" className="px-[100px] py-[90px]">
       <h2 className="font-light text-7xl mb-[66px]">Tecnologies I Use</h2>
       <ul className="flex gap-[16px] flex-wrap justify-center">
         {tecnologies.map((technology) => (
